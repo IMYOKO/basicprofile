@@ -15,7 +15,11 @@
     "dev": "umi dev"
   },
   "dependencies": {
-    "react": ">=16.0.0"
+    "react": ">=16.0.0",
+    "@ant-design/pro-layout": "^4.5.16",
+    "dva": "^2.4.1",
+    "redux": "^4.0.4",
+    "umi-request": "^1.2.6"
   },
   "devDependencies": {
     "umi": "^2.9.0",
