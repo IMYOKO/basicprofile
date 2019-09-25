@@ -11,7 +11,7 @@ class Block extends Component {
           <Descriptions title="退款申请" style={{ marginBottom: 32 }}>
             <Descriptions.Item label="取货单号">1000000000</Descriptions.Item>
             <Descriptions.Item label="状态">已取货</Descriptions.Item>
-            <Descriptions.Item label="销售单号">1234123421</Descriptions.Item>
+            <Descriptions.Item label="销售单号">12341234223241</Descriptions.Item>
             <Descriptions.Item label="子订单">3214321432</Descriptions.Item>
           </Descriptions>
         </Card>
